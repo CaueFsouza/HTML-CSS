@@ -1,0 +1,34 @@
+1. O que é CSS e para que serve?
+
+É uma linguagem de estilo que é utilizada para fazer uma estelização 
+de documento de HTML e XML, resumidamente, ele mexe no layout, espaçamento
+cores e modelos.
+
+2. Qual a diferença entre CSS interno, externo e inline?
+
+INTERNO(INLINE): O CSS interno é aplicado na estrutura do HTML, como
+<style> no <head> ou no proprio <body> (<p font-family="Arial"><p>).
+
+EXTERNO: Já O CSS externo Usa um documento CSS que esteá linkado ao documento de HTML
+que é mais recomendado usando "Style.css".
+
+3. Como criar um link de um arquivo CSS externo no HTML?
+
+Você deve utilizar a tag <link> dentro da <head> do HTML, dentro da tag <link>
+deve ter ter os atributos "rel" (definido como "stylesheet"), type (definido como "text/css")
+e href(com o caminho para o seu arquivo CSS).
+
+4. O que significam e como usar as seguintes propriedades:
+
+- color: Adiciona uma cor para algo do arquivo HTML | exemplo: (color: red;).
+- font-size Aumenta a fonte de um texto no arquivo HTML | exemplo: (font-size: valor;) Eu uso PX.
+- text-align Muda a posição de um texto | exemplo: (font-size: left;).
+- background-color Adiciona uma cor ao fundo de algo. | exemplo: (background-color: blue).
+
+Quais são as formas de definir cores no CSS?
+
+Com nomes: "background-color: red;"
+
+com códigos hexadecimais: "color: #00ff00; >verde<)"
+
+com RGB: "color: rgb(0, 0, 255);"
