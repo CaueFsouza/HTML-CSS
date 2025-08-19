@@ -1,0 +1,18 @@
+/*Esté um elemento que está em todas as tags(global)*/
+
+* {
+    font-family: Arial;
+    font-weight: bold;
+}
+
+h1 {
+    color: aquamarine;
+    font-size: 70px;
+    text-align: center;
+}
+
+p {
+    color: skyblue;
+    font-size: 80px;
+    text-align: center;
+}
