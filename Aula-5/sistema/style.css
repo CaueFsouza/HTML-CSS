@@ -1,0 +1,109 @@
+/*Sessão geral*/
+
+*{
+    font-weight: bold;
+}
+
+input {
+
+    border-radius: 5px;
+}
+
+
+body{
+    
+    font-family: Arial;
+    background-color: rgb(58, 249, 192);;
+}
+
+button{
+    border-radius: 10px;
+    background-color: #c6f300;
+    color: black;
+    padding: 10px; 
+    margin: 5px;
+    border: none;
+}
+
+.container{
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.formulario{
+    border-radius: 10px;
+    background-color: #9a9a9a;
+    padding: 15px;
+    margin: 10px;
+}
+
+.telefone {
+
+    width: 190px;
+}
+
+.nome {
+
+    width: 430px;
+}
+
+.e-mail {
+
+    width: 350px;
+}
+
+/*Sessão dos professores*/
+
+.horaria-experiencia {
+
+    width: 60px;
+}
+
+
+
+.emailprof{
+
+    width: 325px;
+}
+
+.NomeProf{
+
+    width: 400px;
+}
+
+.cpf{
+
+    width: 200px;
+}
+
+/*Sessão dos Cursos*/
+
+.numeros {
+
+    width: 75px;
+}
+
+.livro {
+
+    width: 450px;
+}
+
+.autor {
+
+    width: 350px;
+}
+
+.publi {
+
+    width: 85px;
+}
+
+.edit {
+
+     width: 240px;
+}
+
+
+
