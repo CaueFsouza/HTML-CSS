@@ -1,0 +1,114 @@
+*{
+    margin-top: 10px;
+    
+}
+
+p {
+    font-weight: bold;
+    font-family: Arial;
+    color: indigo;
+}
+
+table {
+    border: solid black;
+}
+
+.tabela2 {
+    background-color: gray;
+}
+
+.tabela3 {
+    color: blue;
+}
+
+.tabela4 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tabela5 th{
+    font-size: 60px;
+}
+
+.tabela6 td {
+    background-color: bisque;
+    
+}
+
+.tabela7 td{
+    text-align: center;
+}
+
+.tabela8 {
+    border-width: 20px;
+}
+
+.tabela9 th{
+    color: red;
+}
+
+.tabela10 td {
+    padding: 25px;
+}
+
+#Fruta {
+    font-style: italic;
+}
+
+.tabela12 td{
+    font-weight: bold;
+}
+
+.tabela13 #primeira-linha{
+    background-color: cornflowerblue;
+}
+
+.tabela14 td{
+    background-color: green;
+}
+
+.tabela15 {
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.tabela16 #segunda-linha{
+    background-color: violet;
+}
+
+.tabela17 th{
+    background-color: black;
+    color: white;
+}
+
+.tabela18 {
+    text-transform: uppercase;
+}
+
+.tabela19 th{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tabela20 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.tabela20 td{
+    background-color: coral;
+  
+}
+
+.tabela20 th {
+    background-color: brown;
+
+}
+
+#tempo {
+    font-weight: bold;
+}
+
+#comida {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
