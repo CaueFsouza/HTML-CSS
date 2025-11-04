@@ -1,0 +1,125 @@
+/* 1 */
+p {
+  color: blue;
+}
+
+/* 2 */
+#titulo-principal {
+  background: yellow;
+}
+
+/* 3 */
+.sub {
+  color: green;
+}
+
+/* 4 */
+li {
+  color: brown;
+}
+
+/* 5 */
+.caixa1 {
+  background: pink;
+}
+.caixa2 {
+  background: lightblue;
+}
+
+/* 6 */
+.ex6 p, .ex6 h2, .ex6 h3 {
+  color: purple;
+}
+
+/* 7 */
+#centralizado {
+  text-align: center;
+}
+
+/* 8 */
+#link1 {
+  color: red;
+}
+#link2 {
+  color: green;
+}
+
+/* 9 */
+.negrito {
+  font-weight: bold;
+}
+
+/* 10 */
+img {
+  border: 2px solid black;
+}
+
+/* 11 */
+div p {
+  color: orange;
+}
+
+/* 12 */
+.p1 {
+  color: teal;
+}
+.p2 {
+  color: violet;
+}
+
+/* 13 */
+#fonte-arial {
+  font-family: Arial, sans-serif;
+}
+
+/* 14 */
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+.underline {
+  text-decoration: underline;
+}
+
+/* 15 */
+div h3 {
+  color: darkblue;
+}
+
+/* 16 */
+#caixa-vermelha {
+  background: rgb(0, 183, 255);
+  color: white;
+}
+#caixa-verde {
+  background: rgb(128, 0, 64);
+  color: white;
+}
+#caixa-azul {
+  background: rgb(246, 255, 0);
+  color: white;
+}
+
+/* 17 */
+.destaque {
+  color: crimson;
+}
+
+/* 18 */
+#caixa-estilizada {
+  background: lightgray;
+  border: 2px solid black;
+  padding: 10px;
+}
+
+/* 19 */
+.sublinhado {
+  text-decoration: underline;
+}
+
+/* 20 */
+h1, p, a {
+  color: darkred;
+}
