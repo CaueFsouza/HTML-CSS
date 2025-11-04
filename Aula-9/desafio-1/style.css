@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+table {
+    border: 2px solid black;
+    border-radius: 10px;
+    border-collapse: collapse;
+    width: 400px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+td {
+    padding: 4px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+th {
+    padding: 4px;
+    margin-bottom: 10px solid black;
+    border-right: 1px solid black;
+}
+
+tr {
+    border-bottom: 1px solid black;
+    
+}
+
+#cor1 {
+    background-color: rgb(255, 194, 170);
+}
+#cor2 {
+    background-color: rgb(251, 172, 108);
+}
+
+#cor-tempo {
+    background-color: rgb(253, 216, 174);
+    border-right: 1px solid black;
+}
